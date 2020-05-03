@@ -1,5 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
+## by amr taha xylphone App for freelance work please contact me 
+EMAIL : amr.taha.dv@gmail.com 
+whatsapp : +201007172861
 
 # Xylophone 🎹
 
